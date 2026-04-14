@@ -1,5 +1,5 @@
 
-i there👋..! I am Manikanta Masina
+i there👋..! I am Lakesh Mouli Veeramalla
 I am Cloud Engineer with a passion of Deploying and managing cloud-based solutions across cloud computing platform.Implementing scalable and reliable infrastructure using cloud services.I also have solid experience working with MySQL and relational database management systems, enabling efficient data handling, querying, and optimization.I also have experience with Html,Css & Javascript.
 🌐 Explore Tech Skills:Data Analyst/Data Engineer/Data Scientist
 🎓 Certifications: Associate Cloud Engineer & Python ITS Certification.
