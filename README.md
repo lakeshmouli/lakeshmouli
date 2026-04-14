@@ -1,13 +1,8 @@
 
-👋 Hi there, I'm Mouli!
-
-I am a VLSI Engineer with a passion for designing efficient hardware and exploring the intersection of silicon and software. When I'm not diving into circuit design, I’m likely experimenting with web technologies or learning about the future of Quantum Computing.
-
-🛠️ Current Focus: VLSI Design & Web Development
-
-🌐 Exploring: Quantum Fundamentals & Cloud Architecture
-
-🚀 Certifications: AWS Cloud Practitioner | PEGA Certified System Architect
+i there👋..! I am Manikanta Masina
+I am Cloud Engineer with a passion of Deploying and managing cloud-based solutions across cloud computing platform.Implementing scalable and reliable infrastructure using cloud services.I also have solid experience working with MySQL and relational database management systems, enabling efficient data handling, querying, and optimization.I also have experience with Html,Css & Javascript.
+🌐 Explore Tech Skills:Data Analyst/Data Engineer/Data Scientist
+🎓 Certifications: Associate Cloud Engineer & Python ITS Certification.
 
 📫 Reach me at: lakeshmouli.sd@gmail.com
 <!--
