@@ -1,5 +1,15 @@
-## Hi there 👋
+<div align="center">
+👋 Hi there, I'm Mouli!
 
+I am a VLSI Engineer with a passion for designing efficient hardware and exploring the intersection of silicon and software. When I'm not diving into circuit design, I’m likely experimenting with web technologies or learning about the future of Quantum Computing.
+
+🛠️ Current Focus: VLSI Design & Web Development
+
+🌐 Exploring: Quantum Fundamentals & Cloud Architecture
+
+🚀 Certifications: AWS Cloud Practitioner | PEGA Certified System Architect
+
+📫 Reach me at: lakeshmouli.sd@gmail.com
 <!--
 **lakeshmouli/lakeshmouli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,3 +42,4 @@ Software Developer | VLSI Engineer | Cloud & Quantum Enthusiast<br><br>I am a ve
 [![](https://komarev.com/ghpvc/?username=lakeshmouli&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
